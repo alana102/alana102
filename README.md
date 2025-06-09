@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu me chamo Alana Sousa
 
-<!--
-**alana102/alana102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Estudando C++ e Java
+- ✉️ Contate-me no email: alana.augusto102@gmail.com
+- 🌸 Pronomes: Ela/Dela
 
-Here are some ideas to get you started:
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alana102&show_icons=true&theme=ayu-mirage" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=elizadora&layout=compact&langs_count=8&theme=ayu-mirage" />
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
