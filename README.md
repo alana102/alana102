@@ -4,7 +4,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alana102&show_icons=true&theme=rose" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alana102&show_icons=true&theme=rose&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=alana102&layout=compact&langs_count=8&theme=rose" />
 </div>
 
