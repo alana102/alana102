@@ -27,7 +27,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 
 ##
 
-![snake gif](https://github.com/alana102/alana102/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div> 
@@ -36,5 +36,3 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
   <a href="https://www.linkedin.com/in/alana-maria-sousa-augusto-b84362349" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
