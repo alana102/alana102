@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e0/e3/64/e0e364075f88ce85d355c8218199ebc8.gif" width="220" alt="Programando">
 
-<div align = "center" width="40">
+<div align = "left" width="40">
 Eu sou estudante de Ciências da Computação e possuo foco principal em desenvolvimento web back-end. Tenho experiência em linguagens como PHP, C, C++ e Java. Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos práticos na área da computação.
 </div>
 
