@@ -1,6 +1,18 @@
 ## 🌸 Olá, eu me chamo Alana Sousa!
 
-Eu sou estudante de Ciências da Computação e possuo foco principal em desenvolvimento web back-end. Tenho experiência em linguagens como PHP, C, C++ e Java. Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos práticos na área da computação.
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="max-width: 400px; text-align: left;">
+    <p>Eu sou estudante de Ciências da Computação e possuo foco principal em desenvolvimento web back-end.</p>
+    <p>Tenho experiência em linguagens como PHP, C, C++ e Java.</p>
+    <p>Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos práticos na área da computação.</p>
+  </div>
+
+  <div>
+    <img src="https://i.pinimg.com/originals/e0/e3/64/e0e364075f88ce85d355c8218199ebc8.gif" alt="Programando" width="250">
+  </div>
+</div>
+</div>
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
