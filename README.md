@@ -19,7 +19,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=rose" alt="streak stats" />
 </div>
 
-##
+## 🌷 Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Alana-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Alana-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -29,7 +29,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
   <img align="center" alt="Alana-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
+## 🌸 Contatos:
 
 
 
