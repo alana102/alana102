@@ -19,7 +19,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=rose" alt="streak stats" />
 </div>
 
-## 🌷 Linguagens:
+## 🌷 Linguagens e Ferramentas:
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Alana-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -28,18 +28,21 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
     <img align="center" alt="Alana-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Alana-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Alana-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <span style="margin: 0 15px; font-size: 24px;">✦</span>
+    <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="IntelliJ" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   </div>
 </div>
 
 
 ## 🪻 Contatos:
 
-
-
-
-<div> 
-  <a href="https://instagram.com/myunwijii_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alana.augusto102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alana-maria-sousa-augusto-b84362349" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://instagram.com/myunwijii_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=862931&logoColor=E9D8D4" target="_blank"></a>
+  <a href = "mailto:alana.augusto102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=862931&color=E9D8D4" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alana-maria-sousa-augusto-b84362349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23862931?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
 </div>
