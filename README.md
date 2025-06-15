@@ -29,7 +29,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
   <img align="center" alt="Alana-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-## 🌸 Contatos:
+## 🪻 Contatos:
 
 
 
