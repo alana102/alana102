@@ -8,13 +8,13 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 
 </div>
 
-## 📊 Estatísticas Gerais:
+## <img src="rosa_estatistica.png" width="24" height="24" style="vertical-align:middle;"> Estatísticas Gerais:
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alana102&show_icons=true&theme=rose&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=alana102&layout=compact&langs_count=8&theme=rose" />
 </div>
 
-## 🔥 Commits:
+## <img src="foguinho.png" width="24" height="24" style="vertical-align:middle;"> Commits:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=rose" alt="streak stats" />
 </div>
@@ -36,7 +36,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 </div>
 
 
-## 🪻 Contatos:
+## 🌺 Contatos:
 
 <div align="center"> 
   <a href="https://instagram.com/myunwijii_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=862931&logoColor=E9D8D4" target="_blank"></a>
