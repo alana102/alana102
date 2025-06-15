@@ -14,7 +14,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=alana102&layout=compact&langs_count=8&theme=rose" />
 </div>
 
-## <img src="foguinho.png" width="33" height="33" style="vertical-align:middle;"> Commits:
+## <img src="foguinho.png" width="28" height="28" style="vertical-align:middle;"> Commits:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=rose" alt="streak stats" />
 </div>
