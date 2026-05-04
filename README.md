@@ -22,7 +22,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 ## 🌷 Linguagens e Ferramentas:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,mysql,postgres" />
-  <p style="margin: 30px 0px 20px; font-size: 60px; color: #E4405F; display: flex; justify-content: center; align-items: center">✦</p>
+  <span style="margin: 30px 0px 20px; font-size: 60px; color: #E4405F; display: flex; justify-content: center; align-items: center">✦</span>
   <img src="https://skillicons.dev/icons?i=vscode,git,idea" />
 </div>
 
