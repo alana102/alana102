@@ -21,18 +21,9 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 
 ## 🌷 Linguagens e Ferramentas:
 <div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Alana-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Alana-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Alana-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Alana-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Alana-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Alana-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <span style="margin: 0 15px; font-size: 24px;">✦</span>
-    <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="IntelliJ" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  </div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,mysql,postgres" />
+  <p style="margin: 30px 0px 20px; font-size: 60px; color: #E4405F; display: flex; justify-content: center; align-items: center">✦</p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,idea" />
 </div>
 
 
